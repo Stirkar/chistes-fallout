@@ -1,4 +1,4 @@
-"
+
 1	Una carne enlatada entra en una ferretería y dice:"Hola. quería renovar el vestuario". ,
 2	Un Sr. Mañoso entra en una tienda de imanes y... no vuelve a salir. ,
 3	En las pizzas de posguerra nuclear no hay sitio para los champiñones. ,Traen malos recuerdos. ,
@@ -100,7 +100,7 @@
 99	¿Cómo llamas a un búmeran que no vuelve?Un palo. ,
 100	¿Sabes lo del tipo que robó un calendario? Le cayeron 12 meses. ,
 
-"
+
 
 
 
